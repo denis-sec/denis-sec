@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denis
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Linux+SysAdmin+%7C+Cybersecurity+Enthusiast;OSCP+Path+%7C+Always+Learning;Automation+%7C+Pentesting+%7C+Hacking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Linux+SysAdmin+%7C+Cybersecurity+Enthusiast;Pentesting+%7C+Hacking)](https://git.io/typing-svg)
 
 ---
 
