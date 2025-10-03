@@ -36,7 +36,7 @@
 ---
 
 ## 🚀 Current Projects
-- **genmon-tools** → XFCE/Kali scripts (automation & monitoring).  
+- [`genmon-tools`](https://github.com/denis-sec/genmon-tools) → XFCE Genmon – VPN/LAN IP Monitor (Kali Linux)
 
 ---
 
