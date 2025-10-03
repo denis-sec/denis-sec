@@ -1,27 +1,52 @@
-# 👋 Hi, I’m Denis
+# 👋 Hi, I'm Denis
 
-🐧 **Linux System Administrator** with 3 years of hands-on experience managing and monitoring enterprise server infrastructures (RHEL, SLES, HP-UX, VMware). Skilled in troubleshooting, automation, and ensuring systems run smoothly and securely.  
-
-⚔️ **Passionate about Cybersecurity** – currently preparing for **OSCP (OffSec)** and actively practicing in labs (HackTheBox, TryHackMe). I’m focused on penetration testing, ethical hacking, and building strong reporting and documentation skills.  
-
-💡 What drives me: turning curiosity into solutions, learning by doing, and sharing knowledge with the community.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Linux+SysAdmin+%7C+Cybersecurity+Enthusiast;OSCP+Path+%7C+Always+Learning;Automation+%7C+Pentesting+%7C+Hacking)](https://git.io/typing-svg)
 
 ---
 
-## 🔧 Skills & Tools
-- **Systems:** RHEL / CentOS / SLES / HP-UX
-- **Pentesting:** Nmap, Burp Suite, Metasploit, Hydra, SQLmap, Wireshark
-- **Scripting:** Bash, Python (basics), PowerShell
+## 🌍 About Me
+- 💻 **Linux System Administrator** with 3+ years hands-on experience managing enterprise infrastructures (RHEL, SLES, HP-UX, VMware).  
+- 🔐 **Cybersecurity enthusiast** – currently preparing for **OSCP (OffSec)** and practicing in **HackTheBox** & **TryHackMe**.  
+- ⚡ Focused on troubleshooting, automation, penetration testing, and strong documentation/reporting skills.  
+- 🧩 Driven by curiosity → turning problems into solutions and sharing knowledge with the community.  
+
+---
+
+## 🛠 Skills & Tools
+
+### 🔹 Systems & Infra
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=22D172)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![HPUX](https://img.shields.io/badge/HP--UX-000000?style=for-the-badge)
+
+### 🔹 Pentesting
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004572?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-F58025?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-00A9E0?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🔹 Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
 ## 🚀 Current Projects
-- [`genmon-tools`](https://github.com/denis-sec/genmon-tools) → XFCE/Kali scripts (automation & monitoring).  
-- **Obsidian notes** → structured templates for OSCP reporting & pentest practice.  
-- **LinkedIn posts** → sharing my learning journey and small technical fixes.  
+- **genmon-tools** → XFCE/Kali scripts (automation & monitoring).  
 
 ---
 
-## 📫 Let’s connect
-- 💼 LinkedIn: [linkedin.com/in/denis-dunovski](https://www.linkedin.com/in/denis-dunovski)  
-- 🎓 TryHackMe: [tryhackme.com/p/DenisDunovski](https://tryhackme.com/p/DenisDunovski)  
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=denis-sec&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denis-sec&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/denis-dunovski/)  
+- 🎯 [TryHackMe](https://tryhackme.com/p/DenisDunovski)  
+- 🐙 [GitHub](https://github.com/denis-sec)  
